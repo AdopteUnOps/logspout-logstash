@@ -1,1 +1,1 @@
-FROM gliderlabs/logspout:master
+FROM adopteunops/logspout:master
