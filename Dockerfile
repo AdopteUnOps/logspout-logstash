@@ -1,1 +1,1 @@
-FROM adopteunops/logspout:master
+FROM adopteunops/logspout:latest
